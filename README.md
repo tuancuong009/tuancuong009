@@ -1,7 +1,7 @@
 - 👋 Hi, I’m QTS Coder
 - 👀 I’m interested in app development, NATIVE app for iOS and Android or HYBRID app with React Native
 - 💞️ I’m looking to collaborate on native iOS and Android project
-- 📫 How to reach me: Email: qtime.vn@gmail.com or Skype tuancuong009
+- 📫 How to reach me: Email: qtime.vn@gmail.com or Teams tuancuong009
 
 <!---
 tuancuong009/tuancuong009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
